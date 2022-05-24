@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @solextin
 - 👀 I’m interested in web and blockchain development
-- 🌱 I’m currently learning moralis academy 
+- 🌱 I’m currently learning on moralis academy 
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me celestineonitah@gmail.com
+- 📫 Reach me celestineonitah@gmail.com
 
 <!---
 solextin/solextin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
